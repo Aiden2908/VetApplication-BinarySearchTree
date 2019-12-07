@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--  document of a list of computer books  --><animals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="animals.xsd">
+    <description> Yesterdays Animals </description>
+    <animal name="IDDDDDDDDDDDDDk" priority="IDDDDDDDDDDDDDk" species="IDDDDDDDDDDDDDk">
+        <symptoms>snotty nose</symptoms>
+        <treatment>Maxiclear, deworming</treatment>
+        <dateSeen>05-04-2019 13:35:00</dateSeen>
+    </animal>
+    <animal name="IDDDDDDDDDDDDDk" priority="IDDDDDDDDDDDDDk" species="IDDDDDDDDDDDDDk">
+        <picURL>src/assignment2/Images/horse.png</picURL>
+        <symptoms>Limp foot</symptoms>
+        <treatment>Cast on foot, painkillers</treatment>
+        <dateSeen>05-04-2019 14:30:00</dateSeen>
+    </animal>
+    
+    <animal name="IDDDDDDDDDDDDDk" priority="IDDDDDDDDDDDDDk" species="IDDDDDDDDDDDDDk">
+        <picURL>src/assignment2/Images/cat.png</picURL>
+        <symptoms>Sore Paws</symptoms>
+        <treatment>Overnight stay, cream on paws</treatment>
+        <dateSeen>05-04-2019 15:30:00</dateSeen>
+    </animal>
+    <animal name="IDDDDDDDDDDDDDk" priority="IDDDDDDDDDDDDDk" species="IDDDDDDDDDDDDDk">
+        <picURL>src/assignment2/Images/dog1.png</picURL>
+        <symptoms>Checkup</symptoms>
+        <treatment>Vacinations given</treatment>
+        <dateSeen>05-04-2019 12:00:00</dateSeen>
+    </animal>
+    <animal name="IDDDDDDDDDDDDDk" priority="IDDDDDDDDDDDDDk" species="IDDDDDDDDDDDDDk">
+        <picURL>src/assignment2/Images/dog.png</picURL>
+        <dateSeen>05-04-2019 11:15:30</dateSeen>
+    </animal>
+</animals>
